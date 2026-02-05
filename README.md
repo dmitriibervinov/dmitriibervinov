@@ -1,7 +1,7 @@
-# Dmitriy | Data Scientist
+# Dmitrii| Data Scientist
 
 Hi 👋  
-I'm **Dmitriy**, a **Data Scientist** focused on applied machine learning, data analysis, and building reproducible ML solutions.
+I'm **Dmitrii**, a **Data Scientist** focused on applied machine learning, data analysis, and building reproducible ML solutions.
 
 I enjoy working with real data, transforming business problems into ML tasks, and delivering models that can be explained, evaluated, and improved.
 
@@ -67,7 +67,7 @@ I enjoy working with real data, transforming business problems into ML tasks, an
 
 - 🔹 **Study-*** — educational and academic ML projects  
 - 🔹 **Kaggle-*** — competitions and dataset exploration  
-- 🔹 **Pet-*** — personal ML / NLP experiments  
+- 🔹 **Pet-*** — personal ML / NLP / CV experiments  
 - 🔹 **Case-*** — practical, business-oriented projects  
 
 👉 [View all repositories](https://github.com/legonc?tab=repositories)
