@@ -77,10 +77,14 @@ I enjoy working with real data, transforming business problems into ML tasks, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmitriibervinov&theme=default" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmitriibervinov&theme=default&utcOffset=+3" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitriibervinov&theme=default" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmitriibervinov&theme=default" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmitriibervinov&theme=default&utcOffset=3" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitriibervinov&theme=default" width="49%" />
+</p>
+
 
 
 
