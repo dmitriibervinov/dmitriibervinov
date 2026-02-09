@@ -76,14 +76,14 @@ I enjoy working with real data, transforming business problems into ML tasks, an
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legonc&theme=github" width="100%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmitriibervinov&theme=default" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmitriibervinov&theme=default&utcOffset=+3" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitriibervinov&theme=default" width="24%" />
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legonc&theme=github" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legonc&theme=github" width="49%" />
-</p>
+
+
 
 > Stats are shown for overview purposes only.  
 > Primary focus — project quality, ML pipelines, and applied data science.
